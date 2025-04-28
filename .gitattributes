@@ -6,3 +6,4 @@
 04_14-taxa_dataset/03_14-taxa_dataset_PhyloNet.zip filter=lfs diff=lfs merge=lfs -text
 01_89-taxa_dataset/06_ILS_from_MSCquartets/*.7z filter=lfs diff=lfs merge=lfs -text
 02_27-taxa_dataset/01_alignments_from_MAFFT/27-taxa_dataset_alignments_from_MAFFT.zip filter=lfs diff=lfs merge=lfs -text
+02_27-taxa_dataset/02_gene_tree_from_RAxML/27-taxa_dataset_gene_tree_from_RAxML.zip filter=lfs diff=lfs merge=lfs -text
